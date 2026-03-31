@@ -1,0 +1,18 @@
+/* Bulldozer Brand Variables — import in any project */
+/* Source: https://github.com/xotw/bulldozer-brand */
+
+:root {
+  /* Colors */
+  --bulldozer-yellow: #DDFF56;
+  --bulldozer-black: #000000;
+  --bulldozer-dark: #0a0a0a;
+  --bulldozer-gray: #1a1a1a;
+  --bulldozer-border: #2a2a2a;
+  --bulldozer-text: #e0e0e0;
+  --bulldozer-muted: #C2C2C2;
+  --bulldozer-green: #032300;
+
+  /* Fonts */
+  --font-display: 'GT Pressura', sans-serif;
+  --font-mono: 'GT Pressura Mono', 'Inconsolata', monospace;
+}
